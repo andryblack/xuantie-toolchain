@@ -1,0 +1,3 @@
+[submodule "xuantie-gnu-toolchain"]
+	path = xuantie-gnu-toolchain
+	url = https://github.com/T-head-Semi/xuantie-gnu-toolchain.git
